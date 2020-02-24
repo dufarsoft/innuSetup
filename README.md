@@ -1,4 +1,4 @@
-## InnuSetup
+### InnuSetup
 
 ## Criando Instaladores com InnoSetup.
 
